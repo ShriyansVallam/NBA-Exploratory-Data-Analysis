@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ab32050d-74bd-4029-a2b3-211e498a12fb)# NBA-Exploratory-Data-Analysis
+# NBA-Exploratory-Data-Analysis
 
 ## **Overview**
 This project provides an in-depth analysis of NBA player and team trends over time, using data visualization techniques to explore various aspects of the league. As a fan of the NBA for a few years now, I aimed to uncover patterns, shifts, and insights, both from a general perspective of the NBA and focusing on specific trends of interest, such as changes in player demographics, physical attributes, and team performance metrics.
